@@ -20,18 +20,3 @@ This project demonstrates the creation of a fully responsive website with:
 - **Reusable Components**: Modular components built with React.js for flexibility and scalability.
 - **Optimized Performance**: Mobile-first design ensures fast loading times and smooth user experience.
 
----
-
-## 📂 Project Structure
-
-```plaintext
-.
-├── public/               # Public assets
-├── src/
-│   ├── components/       # Reusable React components
-│   ├── pages/            # Page components
-│   ├── styles/           # Custom Tailwind CSS styles
-│   ├── App.js            # Main application component
-│   └── index.js          # Entry point
-├── package.json          # Project dependencies
-└── README.md             # Project documentation
