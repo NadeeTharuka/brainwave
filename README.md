@@ -20,3 +20,7 @@ This project demonstrates the creation of a fully responsive website with:
 - **Reusable Components**: Modular components built with React.js for flexibility and scalability.
 - **Optimized Performance**: Mobile-first design ensures fast loading times and smooth user experience.
 
+## 🛠️ Technologies Used
+- React.js: JavaScript library for building user interfaces.
+- Tailwind CSS: Utility-first CSS framework for rapid UI development.
+- Parallax.js: For smooth parallax scrolling effects.
